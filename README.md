@@ -6,8 +6,13 @@
 
 - 🌱 Aprendendo mais sobre: **JS, HTML, CSS, ReactJS, NodeJS**
 - 📫 Me encontre aqui: gabisilvamendesh@gmail.com
+<<<<<<< HEAD
 - 💼 Você pode me encontrar no <a href="https://www.linkedin.com/in/gabriellymendes/" target="_blank">LinkedIn</a> também
 - ⚡ Interesses: amo cozinhar e ver vídeos de bichinhos na internet e
+=======
+- 💼 Você pode me encontrar no <a href="https://www.linkedin.com/in/gabriellymendes/">LinkedIn</a> também
+- ⚡ Interesses: amo cozinhar e ver vídeos de bichinhos na internet e<br/>
+>>>>>>> 225336390b1423ff4d2d996c27651fbba21e6792
   atualmente estou me aventurando a aprender tocar teclado
 
 <br/>
